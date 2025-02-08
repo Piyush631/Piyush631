@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ4NG4zeGx5ajl4bW8zYTFoYzQ4dHg5YnFzMzJ5cnRvMGYzaXZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **MERN**
 
